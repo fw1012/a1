@@ -1,0 +1,26 @@
+.prince{
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    background-image: url("imgs/prince_image.jpeg");
+    background-size: 100%;
+   
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+/*
+.center{
+    width: 250px;
+            text-align: center;
+            border: white;
+}
+*/
+
+.text-wrapper{
+    width: 350px;
+    margin: 0 auto;
+}
+
